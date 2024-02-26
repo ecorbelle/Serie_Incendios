@@ -76,11 +76,11 @@ plot_españa <- ggplot(españa.area, aes( x = ano, y = value/1e3)) +
 
 
 
-png("Incendios_Galicia.png", width = 15, height = 10, units = "cm", res = 300)
+png("Galicia.png", width = 15, height = 10, units = "cm", res = 300)
 print(plot_galicia)
 dev.off()
   
-png("Incendios_España.png", width = 15, height = 10, units = "cm", res = 300)
+png("España.png", width = 15, height = 10, units = "cm", res = 300)
 print(plot_españa)
 dev.off()
 
