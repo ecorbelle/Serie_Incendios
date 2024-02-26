@@ -2,7 +2,7 @@
 
 Datos orixinais: [Estadística de Incendios Forestales](https://www.miteco.gob.es/es/biodiversidad/temas/incendios-forestales/estadisticas-incendios.html), Ministerio para la Transición Ecológica y el Reto Demográfico
 
-![Gráfico 1](Incendios_Galicia.png)
+![Gráfico Galicia](Incendios_Galicia.png)
 
-![Gráfico 2](Incendios_España.png)
+![Gráfico España](Incendios_España.png)
 
